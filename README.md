@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hello 👋🏾, I'm Aziz 
 
-<!--
-**mrtecka/mrtecka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Fullstack Software Engineer | Web Developer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently a Freelance Fullstack Web Developer working on some cool projects
+- 🛠️ At the moment, I'm building using
+  - Frontend: React, HTML, CSS & JavaScript
+  - Backend: Express & Node.js
+  - Framework/Libraries: Axios & Knex
+- 🌱 Always curious and eager to learn!
+- 🌱 I’m currently learning **React Native & TypeScript**
+- 💬 Ask me about **Any Projects You Need Support With!**
+- 📫 Reach me at **theazizbash@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/azizbash/)
+- 👨🏾‍💻 Check out my latest fun application: [Na We](https://na-we.com)
